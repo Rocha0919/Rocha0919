@@ -9,7 +9,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, entusiasta da tecnologi
 - Interesses: Tecnologia assistiva, desenvolvimento backend/frontend  e inteligência artificial
 
 ## 💻 Tecnologias
-- **Linguagens:** Java, C, JavaScript, SQL  
+- **Linguagens:** Java, Python, JavaScript, SQL  
 - **Banco de Dados:** MySQL  
 - **Ferramentas:** Git, Docker, Linux  
 
